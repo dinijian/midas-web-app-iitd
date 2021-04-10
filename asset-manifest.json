@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/midas-web-app-iitd/static/css/main.d6803454.chunk.css",
+    "main.js": "/midas-web-app-iitd/static/js/main.f024c14a.chunk.js",
+    "main.js.map": "/midas-web-app-iitd/static/js/main.f024c14a.chunk.js.map",
+    "runtime-main.js": "/midas-web-app-iitd/static/js/runtime-main.53c5921e.js",
+    "runtime-main.js.map": "/midas-web-app-iitd/static/js/runtime-main.53c5921e.js.map",
+    "static/css/2.a1596f27.chunk.css": "/midas-web-app-iitd/static/css/2.a1596f27.chunk.css",
+    "static/js/2.6da0f1e2.chunk.js": "/midas-web-app-iitd/static/js/2.6da0f1e2.chunk.js",
+    "static/js/2.6da0f1e2.chunk.js.map": "/midas-web-app-iitd/static/js/2.6da0f1e2.chunk.js.map",
+    "index.html": "/midas-web-app-iitd/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/midas-web-app-iitd/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.d6803454.chunk.css.map": "/midas-web-app-iitd/static/css/main.d6803454.chunk.css.map",
+    "static/js/2.6da0f1e2.chunk.js.LICENSE.txt": "/midas-web-app-iitd/static/js/2.6da0f1e2.chunk.js.LICENSE.txt",
+    "static/media/login.8a081c50.png": "/midas-web-app-iitd/static/media/login.8a081c50.png",
+    "static/media/people1.65277711.jpg": "/midas-web-app-iitd/static/media/people1.65277711.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53c5921e.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.6da0f1e2.chunk.js",
+    "static/css/main.d6803454.chunk.css",
+    "static/js/main.f024c14a.chunk.js"
+  ]
+}
