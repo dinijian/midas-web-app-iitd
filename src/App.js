@@ -1,25 +1,44 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Navbar from './components/Navbar';
+import Slideshow from './components/Slideshow';
 
-function App() {
+import Login from './components/Login';
+import 'animate.css';
+import 'styled-components';
+
+import {BrowserRouter,Route, Router, Switch} from 'react-router-dom';
+
+
+
+const Routing = ()=>{
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>    
+  <Switch>
+  
+      <> 
+      <div className='flexbox-container'>
+      <Slideshow />
+      <Login />
+      </div>      
+     
+</>
+  </Switch>
+
+            </>
+            
+  )
+}
+function App() {
+  
+  return (
+    
+    <BrowserRouter>
+      <Navbar />
+      
+      <Routing />
+    </BrowserRouter>
+    
   );
 }
-
 export default App;

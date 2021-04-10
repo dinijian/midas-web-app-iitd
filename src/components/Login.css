@@ -1,0 +1,88 @@
+
+ 
+ .image1{
+   height: 500px;
+   width: 800px;
+  
+   padding-top: 0.5vh;
+   padding-right: 20vw;
+   opacity: 0.3;
+   position: relative;
+   
+ }
+ .centered {
+   left: 0;
+    position:absolute;
+    
+    text-align:center;
+    top: 5px;
+    width: 100%;
+    padding-left: 600px;
+    padding-top: 170px;
+    color: rgb(248, 239, 239);
+    font-size: 50px;
+    
+  
+    font-family: cursive bold;
+    
+ }
+ .centered p{
+font-size: 15px;
+padding-top: 30px;
+color: rgb(218, 206, 206);
+font-family:cursive;
+ }
+ .welcome{
+  font-size: 20px;
+  padding-top: 20px;
+  padding-left: 100px;
+ 
+  color: rgb(247, 243, 8);
+  font-family:sans-serif bold;
+ }
+.centered .login-button{
+  
+height: 20px;
+width: 400px;
+
+color: rgb(22, 21, 21);
+padding-top: 50px;
+  font-size: 20px;
+  padding-left: 130px;
+ }
+ .fa-play-circle{
+   height: 40px;
+   padding-left: 30px;
+   color: white;
+ }
+.fa-play-circle .youtube{
+  padding-left: 12px;
+   position: absolute;
+   font-size: 20px;
+   color: rgb(245, 165, 16);
+   text-decoration: none;
+   font-family: cursive;
+ }
+ 
+ .extrasection{
+   height: 1000px;
+   
+ }
+ .fa-angle-down{
+   font-size: 60px;
+   height: 50px;
+    width: 90px;
+   background: rgb(101, 19, 112);
+   border-radius: 35px;
+ }
+ #footer{
+   height: 100px;
+   width: 300px;
+   background: rgb(10, 12, 122);
+   color: white;
+   
+ }
+ #footer span{
+   padding: 50px;
+   padding-top: 50px;
+ }

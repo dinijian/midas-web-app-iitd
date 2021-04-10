@@ -1,0 +1,20 @@
+.search{
+    display: flex;
+    justify-content: flex-end;
+}
+.fa-search{
+    display: flex;
+    margin-left: auto;
+    color: blue;
+    padding-right: 50px;
+    padding-top: 0px;
+    padding-left: 50px;
+}
+.fa-bars{
+    
+    display: flex;
+    margin-left: auto;
+    color: blue;
+    
+    padding-top: 0px;
+}
