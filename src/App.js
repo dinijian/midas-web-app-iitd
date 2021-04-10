@@ -7,7 +7,7 @@ import Login from './components/Login';
 import 'animate.css';
 import 'styled-components';
 
-import {BrowserRouter,Route, Router, Switch} from 'react-router-dom';
+import {BrowserRouter, Switch} from 'react-router-dom';
 
 
 
